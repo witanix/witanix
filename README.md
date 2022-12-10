@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @witanix
 - 👀 I’m interested in coding in python, Powershell, MachineLearning, automation
-- 🌱 I’m currently learning Python (Django, Tkinter,Pandas) and Powershell
+- 🌱 I’m currently learning DevOps, Python (Django, Tkinter,Pandas) and Powershell
+- :office: Would like to be a DevOps engineer
 - 📫 How to reach me ...
 
 <!---
